@@ -7,10 +7,12 @@ using Appointments.Domain.Entities;
 using Appointments.Domain.Enums;
 using Appointments.Api.Clients;
 using Appointments.Api.Messaging;
+using Appointments.Api.Security;
 
 namespace Appointments.Api.Controllers
 {
     [RoutePrefix("api/appointments")]
+    [JwtAuthorize]
     public class AppointmentsController : ApiController
     {
         private readonly IAppointmentRepository _appointmentRepository;

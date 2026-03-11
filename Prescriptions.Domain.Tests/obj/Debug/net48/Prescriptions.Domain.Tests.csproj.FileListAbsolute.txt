@@ -128,3 +128,4 @@ C:\Projects\Prescriptions.Domain.Tests\obj\Debug\net48\Prescriptions.Domain.Test
 C:\Projects\Prescriptions.Domain.Tests\obj\Debug\net48\Prescrip.CAB22B81.Up2Date
 C:\Projects\Prescriptions.Domain.Tests\obj\Debug\net48\Prescriptions.Domain.Tests.dll
 C:\Projects\Prescriptions.Domain.Tests\obj\Debug\net48\Prescriptions.Domain.Tests.pdb
+C:\Projects\Prescriptions.Domain.Tests\obj\Debug\net48\Prescriptions.Domain.Tests.sourcelink.json

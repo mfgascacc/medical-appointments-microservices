@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = People.Domain.Tests
-build_property.ProjectDir = c:\Projects\People.Domain.Tests\
+build_property.ProjectDir = C:\Projects\People.Domain.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

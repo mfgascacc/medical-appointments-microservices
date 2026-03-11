@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Projects\\ClinicAppointmentsSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80D3BBB3-E9CA-4762-B141-BF055449E1DF}|..\\People.Api\\People.Api.csproj|c:\\projects\\people.api\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA2A61-16C4-4999-8062-71D6DD5DE6FB}|..\\Prescriptions.Api\\Prescriptions.Api.csproj|c:\\projects\\prescriptions.api\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -77,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,7 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\People.Api\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\People.Api\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Projects\\People.Api\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\People.Api\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:25:29.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Api\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\Prescriptions.Api\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:25:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:25:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppointmentFinishedConsumer.cs",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
               "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
@@ -97,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppointmentEventPublisher.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
@@ -109,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Controllers\\AppointmentsController.cs",
               "ToolTip": "C:\\Projects\\Appointments.Api\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "..\\Appointments.Api\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwD0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T01:46:51.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PeopleClient.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Clients\\PeopleClient.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Clients\\PeopleClient.cs",
@@ -130,11 +178,12 @@
               "RelativeToolTip": "..\\Appointments.Api\\Clients\\PeopleClient.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAvwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T01:42:55.896Z"
+              "WhenOpened": "2026-03-11T01:42:55.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Web.config",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Web.config",
@@ -147,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IAppointmentEventPublisher.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
@@ -159,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppointmentFinishedEvent.cs",
               "DocumentMoniker": "C:\\Projects\\ClinicAppointmentsSystem\\Messaging.Contracts\\AppointmentFinishedEvent.cs",
               "RelativeDocumentMoniker": "Messaging.Contracts\\AppointmentFinishedEvent.cs",
@@ -171,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Global.asax.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Global.asax.cs",
@@ -183,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Web.config",
               "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Web.config",
@@ -196,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HealthController.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Controllers\\HealthController.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Controllers\\HealthController.cs",
@@ -208,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IPeopleClient.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Clients\\IPeopleClient.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Clients\\IPeopleClient.cs",
@@ -220,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PeoplePersonResponse.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
@@ -232,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "202603102136017_AddUniqueIndexToPrescriptionCode.cs",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
               "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
@@ -244,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Api\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Api\\App_Start\\WebApiConfig.cs",
@@ -256,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "202603100242201_InitialPrescriptionsSchema.cs",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
               "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
@@ -268,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Prescriptions.Api",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Prescriptions.Api.csproj",
               "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Prescriptions.Api.csproj",
@@ -279,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "People.Api",
               "DocumentMoniker": "C:\\Projects\\People.Api\\People.Api.csproj",
               "RelativeDocumentMoniker": "..\\People.Api\\People.Api.csproj",
@@ -290,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "PeopleDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
               "RelativeDocumentMoniker": "..\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
@@ -302,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "PrescriptionRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
               "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
@@ -314,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Global.asax.cs",
               "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Global.asax.cs",
@@ -326,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "202603100239536_InitialAppointmentsSchema.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
@@ -338,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "..\\Appointments.Infrastructure\\Migrations\\Configuration.cs",

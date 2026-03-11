@@ -1,7 +1,8 @@
-﻿using System.Web.Http;
+using System.Web.Http;
 
 namespace Prescriptions.Api.Controllers
 {
+    [AllowAnonymous]
     [RoutePrefix("api/health")]
     public class HealthController : ApiController
     {

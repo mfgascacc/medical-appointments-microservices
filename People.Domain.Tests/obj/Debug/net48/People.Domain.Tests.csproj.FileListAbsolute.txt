@@ -128,3 +128,4 @@ C:\Projects\People.Domain.Tests\obj\Debug\net48\People.Domain.Tests.csproj.CoreC
 C:\Projects\People.Domain.Tests\obj\Debug\net48\People.D.97BF36F2.Up2Date
 C:\Projects\People.Domain.Tests\obj\Debug\net48\People.Domain.Tests.dll
 C:\Projects\People.Domain.Tests\obj\Debug\net48\People.Domain.Tests.pdb
+C:\Projects\People.Domain.Tests\obj\Debug\net48\People.Domain.Tests.sourcelink.json

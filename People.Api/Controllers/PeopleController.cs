@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using People.Api.Security;
 using People.Application.Repositories;
 using People.Domain.Entities;
 using People.Domain.Enums;
@@ -9,6 +10,7 @@ using People.Domain.Enums;
 namespace People.Api.Controllers
 {
     [RoutePrefix("api/people")]
+    [JwtAuthorize]
     public class PeopleController : ApiController
     {
         private readonly IPersonRepository _personRepository;

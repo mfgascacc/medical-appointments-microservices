@@ -134,6 +134,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Clients\IPeopleClient.cs" />
     <Compile Include="Clients\PeopleClient.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\AppointmentsController.cs" />
     <Compile Include="Controllers\HealthController.cs" />
     <Compile Include="DependencyInjection\SimpleDependencyResolver.cs" />
@@ -144,6 +145,8 @@
     <Compile Include="Messaging\AppointmentEventPublisher.cs" />
     <Compile Include="Messaging\IAppointmentEventPublisher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\JwtAuthorizeAttribute.cs" />
+    <Compile Include="Security\JwtTokenService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

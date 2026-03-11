@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Prescriptions.Domain.Tests
-build_property.ProjectDir = c:\Projects\Prescriptions.Domain.Tests\
+build_property.ProjectDir = C:\Projects\Prescriptions.Domain.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

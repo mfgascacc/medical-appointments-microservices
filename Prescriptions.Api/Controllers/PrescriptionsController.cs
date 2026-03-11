@@ -1,6 +1,7 @@
 using System;
 using System.Linq;
 using System.Web.Http;
+using Prescriptions.Api.Security;
 using Prescriptions.Application.Repositories;
 using Prescriptions.Domain.Entities;
 using Prescriptions.Domain.Enums;
@@ -8,6 +9,7 @@ using Prescriptions.Domain.Enums;
 namespace Prescriptions.Api.Controllers
 {
     [RoutePrefix("api/prescriptions")]
+    [JwtAuthorize]
     public class PrescriptionsController : ApiController
     {
         private readonly IPrescriptionRepository _prescriptionRepository;

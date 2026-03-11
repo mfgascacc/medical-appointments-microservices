@@ -133,6 +133,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HealthController.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\PrescriptionsController.cs" />
     <Compile Include="DependencyInjection\SimpleDependencyResolver.cs" />
     <Compile Include="Global.asax.cs">
@@ -140,6 +141,8 @@
     </Compile>
     <Compile Include="Messaging\AppointmentFinishedConsumer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\JwtAuthorizeAttribute.cs" />
+    <Compile Include="Security\JwtTokenService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

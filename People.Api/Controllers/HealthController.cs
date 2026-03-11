@@ -2,6 +2,7 @@ using System.Web.Http;
 
 namespace People.Api.Controllers
 {
+    [AllowAnonymous]
     [RoutePrefix("api/health")]
     public class HealthController : ApiController
     {

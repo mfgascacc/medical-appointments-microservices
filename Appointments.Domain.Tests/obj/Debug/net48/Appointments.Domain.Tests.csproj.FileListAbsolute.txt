@@ -128,3 +128,4 @@ C:\Projects\Appointments.Domain.Tests\obj\Debug\net48\Appointments.Domain.Tests.
 C:\Projects\Appointments.Domain.Tests\obj\Debug\net48\Appointm.25BAF50B.Up2Date
 C:\Projects\Appointments.Domain.Tests\obj\Debug\net48\Appointments.Domain.Tests.dll
 C:\Projects\Appointments.Domain.Tests\obj\Debug\net48\Appointments.Domain.Tests.pdb
+C:\Projects\Appointments.Domain.Tests\obj\Debug\net48\Appointments.Domain.Tests.sourcelink.json
