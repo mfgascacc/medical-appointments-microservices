@@ -108,6 +108,67 @@ Swagger por API:
 - `https://localhost:44319/swagger` (Appointments)
 - `https://localhost:44380/swagger` (Prescriptions)
 
+## Autenticacion JWT
+
+Cada API tiene autenticacion por Bearer token JWT.
+
+### Endpoints publicos
+
+- `GET /api/health`
+- `POST /api/auth/token`
+
+### Endpoints protegidos
+
+- `People.Api`: `/api/people/*`
+- `Appointments.Api`: `/api/appointments/*`
+- `Prescriptions.Api`: `/api/prescriptions/*`
+
+### Configuracion por API (`Web.config`)
+
+```xml
+<add key="JwtIssuer" value="medical-appointments" />
+<add key="JwtAudience" value="medical-appointments-clients" />
+<add key="JwtSecret" value="replace-with-strong-secret-key" />
+<add key="JwtUsername" value="admin" />
+<add key="JwtPassword" value="admin123" />
+```
+
+Recomendacion: cambiar `JwtSecret`, `JwtUsername` y `JwtPassword` para ambientes reales.
+
+### Obtener token
+
+Request:
+
+```http
+POST /api/auth/token
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin123"
+}
+```
+
+Response (ejemplo):
+
+```json
+{
+  "accessToken": "<jwt>",
+  "tokenType": "Bearer",
+  "expiresIn": 7200
+}
+```
+
+### Consumir endpoints protegidos
+
+Agregar header:
+
+```http
+Authorization: Bearer <jwt>
+```
+
+Nota de integracion interna: `Appointments.Api` solicita token de `People.Api` automaticamente para realizar validaciones de doctor/paciente en llamadas internas.
+
 ## Pruebas unitarias
 
 Se agregaron pruebas de dominio para cubrir reglas criticas:
