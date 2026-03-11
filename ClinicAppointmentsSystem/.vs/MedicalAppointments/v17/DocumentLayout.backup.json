@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ClinicAppointmentsSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\messaging\\appointmenteventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\clients\\peopleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FC0F-7D8D-41FF-8DD0-4B83CB39F57E}|Messaging.Contracts\\Messaging.Contracts.csproj|C:\\Projects\\ClinicAppointmentsSystem\\messaging.contracts\\appointmentfinishedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FC0F-7D8D-41FF-8DD0-4B83CB39F57E}|Messaging.Contracts\\Messaging.Contracts.csproj|solutionrelative:messaging.contracts\\appointmentfinishedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\messaging\\iappointmenteventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA2A61-16C4-4999-8062-71D6DD5DE6FB}|..\\Prescriptions.Api\\Prescriptions.Api.csproj|c:\\projects\\prescriptions.api\\messaging\\appointmentfinishedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA2A61-16C4-4999-8062-71D6DD5DE6FB}|..\\Prescriptions.Api\\Prescriptions.Api.csproj|c:\\projects\\prescriptions.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\clients\\ipeopleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\dtos\\peoplepersonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCDA268-7DA3-440C-BA83-92E7F6F476FA}|..\\Appointments.Api\\Appointments.Api.csproj|c:\\projects\\appointments.api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5738E-4D34-4A12-807A-AAF01A44C1EB}|..\\Prescriptions.Infrastructure\\Prescriptions.Infrastructure.csproj|c:\\projects\\prescriptions.infrastructure\\migrations\\202603102136017_adduniqueindextoprescriptioncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5738E-4D34-4A12-807A-AAF01A44C1EB}|..\\Prescriptions.Infrastructure\\Prescriptions.Infrastructure.csproj|c:\\projects\\prescriptions.infrastructure\\migrations\\202603100242201_initialprescriptionsschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9E6494-4739-4E72-A840-716875917655}|..\\People.Infrastructure\\People.Infrastructure.csproj|c:\\projects\\people.infrastructure\\persistence\\peopledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5738E-4D34-4A12-807A-AAF01A44C1EB}|..\\Prescriptions.Infrastructure\\Prescriptions.Infrastructure.csproj|c:\\projects\\prescriptions.infrastructure\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA2A61-16C4-4999-8062-71D6DD5DE6FB}|..\\Prescriptions.Api\\Prescriptions.Api.csproj|c:\\projects\\prescriptions.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11D076-115B-47B5-AC2C-EE96D29B5C85}|..\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj|c:\\projects\\appointments.infrastructure\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11D076-115B-47B5-AC2C-EE96D29B5C85}|..\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj|c:\\projects\\appointments.infrastructure\\migrations\\202603100239536_initialappointmentsschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Prescriptions.Api||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|People.Api||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentFinishedConsumer.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
+              "RelativeToolTip": "..\\Prescriptions.Api\\Messaging\\AppointmentFinishedConsumer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:10:27.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentEventPublisher.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Messaging\\AppointmentEventPublisher.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:09:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:46:51.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleClient.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Clients\\PeopleClient.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Clients\\PeopleClient.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Clients\\PeopleClient.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Clients\\PeopleClient.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:42:55.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Web.config",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Web.config",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Web.config",
+              "RelativeToolTip": "..\\Appointments.Api\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-11T01:48:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppointmentEventPublisher.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Messaging\\IAppointmentEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:17:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentFinishedEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\ClinicAppointmentsSystem\\Messaging.Contracts\\AppointmentFinishedEvent.cs",
+              "RelativeDocumentMoniker": "Messaging.Contracts\\AppointmentFinishedEvent.cs",
+              "ToolTip": "C:\\Projects\\ClinicAppointmentsSystem\\Messaging.Contracts\\AppointmentFinishedEvent.cs",
+              "RelativeToolTip": "Messaging.Contracts\\AppointmentFinishedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:07:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Global.asax.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Global.asax.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Global.asax.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:34:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Web.config",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Web.config",
+              "ToolTip": "C:\\Projects\\Prescriptions.Api\\Web.config",
+              "RelativeToolTip": "..\\Prescriptions.Api\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-11T02:08:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:46:50.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPeopleClient.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Clients\\IPeopleClient.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Clients\\IPeopleClient.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Clients\\IPeopleClient.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Clients\\IPeopleClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:42:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeoplePersonResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\Dtos\\PeoplePersonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:40:13.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202603102136017_AddUniqueIndexToPrescriptionCode.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
+              "RelativeToolTip": "..\\Prescriptions.Infrastructure\\Migrations\\202603102136017_AddUniqueIndexToPrescriptionCode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:36:10.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Api\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Api\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Api\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "..\\Appointments.Api\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:55:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202603100242201_InitialPrescriptionsSchema.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
+              "RelativeToolTip": "..\\Prescriptions.Infrastructure\\Migrations\\202603100242201_InitialPrescriptionsSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:32:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Prescriptions.Api",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Prescriptions.Api.csproj",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Prescriptions.Api.csproj",
+              "ToolTip": "C:\\Projects\\Prescriptions.Api\\Prescriptions.Api.csproj*",
+              "RelativeToolTip": "..\\Prescriptions.Api\\Prescriptions.Api.csproj*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFISURBVDhPvZGxasJQFIa/hEhC16QdCt19AGdHF0nXQgj4CJ27unXpG3T1BeLi6O4arkvWQisGydBIcsntFMFLUiW2fts5578/95zfUEoRRdET8A7c0I1v4PXR96eGUorFYvHV7/dzz/MedOU5bLfbDyGEPRqNbk0Ax3G8rmYAruveO47jApj68FKuZxjHMUEQEIYhaZqSpilhGBIEAXEc6/IDjYbr9ZokSZBSUhQFQgiEEBRFgZSSJElaTQ2lFMvlshoMBofmZDIhz/MjoY5lWcxms0O9Wq0YDodm4w9PmQFIKfUWtK18CdcxNJsvcUSbpjGUKIpab1RjWRa\u002B7x/qOpRGwy78mvIl/I\u002BhUgqllD7rhAlQluXnbrfbVFWlz09SVRVZlqVlWW6oU57P58\u002B2bb/0er07/cE5SCmz/X4/HY/Hb8ZfrVrzA0atn\u002BKAIrqHAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-10T21:12:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "People.Api",
+              "DocumentMoniker": "C:\\Projects\\People.Api\\People.Api.csproj",
+              "RelativeDocumentMoniker": "..\\People.Api\\People.Api.csproj",
+              "ToolTip": "C:\\Projects\\People.Api\\People.Api.csproj",
+              "RelativeToolTip": "..\\People.Api\\People.Api.csproj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFISURBVDhPvZGxasJQFIa/hEhC16QdCt19AGdHF0nXQgj4CJ27unXpG3T1BeLi6O4arkvWQisGydBIcsntFMFLUiW2fts5578/95zfUEoRRdET8A7c0I1v4PXR96eGUorFYvHV7/dzz/MedOU5bLfbDyGEPRqNbk0Ax3G8rmYAruveO47jApj68FKuZxjHMUEQEIYhaZqSpilhGBIEAXEc6/IDjYbr9ZokSZBSUhQFQgiEEBRFgZSSJElaTQ2lFMvlshoMBofmZDIhz/MjoY5lWcxms0O9Wq0YDodm4w9PmQFIKfUWtK18CdcxNJsvcUSbpjGUKIpab1RjWRa\u002B7x/qOpRGwy78mvIl/I\u002BhUgqllD7rhAlQluXnbrfbVFWlz09SVRVZlqVlWW6oU57P58\u002B2bb/0er07/cE5SCmz/X4/HY/Hb8ZfrVrzA0atn\u002BKAIrqHAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-10T21:12:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PeopleDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
+              "RelativeDocumentMoniker": "..\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
+              "ToolTip": "C:\\Projects\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
+              "RelativeToolTip": "..\\People.Infrastructure\\Persistence\\PeopleDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:34:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
+              "RelativeToolTip": "..\\Prescriptions.Infrastructure\\Repositories\\PrescriptionRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:59:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Projects\\Prescriptions.Api\\Global.asax.cs",
+              "RelativeDocumentMoniker": "..\\Prescriptions.Api\\Global.asax.cs",
+              "ToolTip": "C:\\Projects\\Prescriptions.Api\\Global.asax.cs",
+              "RelativeToolTip": "..\\Prescriptions.Api\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:58:47.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202603100239536_InitialAppointmentsSchema.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
+              "RelativeToolTip": "..\\Appointments.Infrastructure\\Migrations\\202603100239536_InitialAppointmentsSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:32:11.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\Appointments.Infrastructure\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Projects\\Appointments.Infrastructure\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "..\\Appointments.Infrastructure\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:32:00.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

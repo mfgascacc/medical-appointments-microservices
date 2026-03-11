@@ -1,0 +1,12 @@
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\bin\Debug\People.Domain.dll
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\bin\Debug\People.Domain.pdb
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\obj\Debug\People.Domain.csproj.AssemblyReference.cache
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\obj\Debug\People.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\obj\Debug\People.Domain.dll
+C:\Users\MAFE\Documents\StoreByMafe\People.Domain\obj\Debug\People.Domain.pdb
+C:\Projects\People.Domain\bin\Debug\People.Domain.dll
+C:\Projects\People.Domain\bin\Debug\People.Domain.pdb
+C:\Projects\People.Domain\obj\Debug\People.Domain.csproj.AssemblyReference.cache
+C:\Projects\People.Domain\obj\Debug\People.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\People.Domain\obj\Debug\People.Domain.dll
+C:\Projects\People.Domain\obj\Debug\People.Domain.pdb

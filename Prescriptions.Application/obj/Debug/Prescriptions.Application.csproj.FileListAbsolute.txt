@@ -1,0 +1,9 @@
+C:\Projects\Prescriptions.Application\bin\Debug\Prescriptions.Application.dll
+C:\Projects\Prescriptions.Application\bin\Debug\Prescriptions.Application.pdb
+C:\Projects\Prescriptions.Application\bin\Debug\Prescriptions.Domain.dll
+C:\Projects\Prescriptions.Application\bin\Debug\Prescriptions.Domain.pdb
+C:\Projects\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.AssemblyReference.cache
+C:\Projects\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Prescriptions.Application\obj\Debug\Prescrip.CA1BEC9C.Up2Date
+C:\Projects\Prescriptions.Application\obj\Debug\Prescriptions.Application.dll
+C:\Projects\Prescriptions.Application\obj\Debug\Prescriptions.Application.pdb

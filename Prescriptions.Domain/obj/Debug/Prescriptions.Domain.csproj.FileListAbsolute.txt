@@ -1,0 +1,6 @@
+C:\Projects\Prescriptions.Domain\bin\Debug\Prescriptions.Domain.dll
+C:\Projects\Prescriptions.Domain\bin\Debug\Prescriptions.Domain.pdb
+C:\Projects\Prescriptions.Domain\obj\Debug\Prescriptions.Domain.csproj.AssemblyReference.cache
+C:\Projects\Prescriptions.Domain\obj\Debug\Prescriptions.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Prescriptions.Domain\obj\Debug\Prescriptions.Domain.dll
+C:\Projects\Prescriptions.Domain\obj\Debug\Prescriptions.Domain.pdb

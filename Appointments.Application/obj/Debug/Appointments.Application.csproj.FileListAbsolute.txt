@@ -1,0 +1,9 @@
+C:\Projects\Appointments.Application\bin\Debug\Appointments.Application.dll
+C:\Projects\Appointments.Application\bin\Debug\Appointments.Application.pdb
+C:\Projects\Appointments.Application\bin\Debug\Appointments.Domain.dll
+C:\Projects\Appointments.Application\bin\Debug\Appointments.Domain.pdb
+C:\Projects\Appointments.Application\obj\Debug\Appointments.Application.csproj.AssemblyReference.cache
+C:\Projects\Appointments.Application\obj\Debug\Appointments.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Appointments.Application\obj\Debug\Appointm.DB89044F.Up2Date
+C:\Projects\Appointments.Application\obj\Debug\Appointments.Application.dll
+C:\Projects\Appointments.Application\obj\Debug\Appointments.Application.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Appointments.Domain\bin\Debug\Appointments.Domain.dll
+C:\Projects\Appointments.Domain\bin\Debug\Appointments.Domain.pdb
+C:\Projects\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.AssemblyReference.cache
+C:\Projects\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Appointments.Domain\obj\Debug\Appointments.Domain.dll
+C:\Projects\Appointments.Domain\obj\Debug\Appointments.Domain.pdb

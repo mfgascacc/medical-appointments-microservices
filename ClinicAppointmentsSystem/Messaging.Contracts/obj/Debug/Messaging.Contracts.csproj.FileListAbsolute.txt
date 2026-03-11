@@ -1,0 +1,6 @@
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\bin\Debug\Messaging.Contracts.dll
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\bin\Debug\Messaging.Contracts.pdb
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\obj\Debug\Messaging.Contracts.csproj.AssemblyReference.cache
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\obj\Debug\Messaging.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\obj\Debug\Messaging.Contracts.dll
+C:\Projects\ClinicAppointmentsSystem\Messaging.Contracts\obj\Debug\Messaging.Contracts.pdb

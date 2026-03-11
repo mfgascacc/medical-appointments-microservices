@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\Appointments.Api\\Appointments.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Prescriptions.Api\\Prescriptions.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\People.Api\\People.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
